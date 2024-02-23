@@ -31,5 +31,9 @@ Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSa
  Tulis nama lengkap dan email pada readme.md repository yang di fork.
  kirim link repository ke email [dev@anargya.co.id]()
 
+<b>Nama : Firosyan Ammar Sopyan</b>
+<b>Email : firosyanammar14@gmail.com</b>
+
+
  Jika ada pertanyaan, silakan open issue pada repo ini ya!
  <b>Happy Coding! 🔥</b>

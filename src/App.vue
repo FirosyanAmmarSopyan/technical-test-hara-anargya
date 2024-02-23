@@ -1,7 +1,24 @@
-<script setup></script>
+<script>
+import Navbar from '../src/components/navbar.vue';
+import dayjs from 'dayjs';
+export default {
+  name : 'App',
+  components : {
+    Navbar
+  },
+  data(){
+    return{
+      activeComponent: 'home'
+    }
+  }
+}
+</script>
 
 <template>
-  <div class="text-lg font-bold">Hallo Folks!</div>
+  <div id="app">
+    <Navbar/>
+    <!-- <router-view></router-view> -->
+  </div>
 </template>
 
-<style scoped></style>
+<style></style>
